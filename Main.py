@@ -10,7 +10,7 @@ Start_screen = GameGraphics.Draw_image(0, 0, 'Start_screen.png', 1)
 Map = GameGraphics.Draw_image(0, 0, 'Map.png', 1)
 Start_Button = GameGraphics.Button(610, 328, 'Button.png', 1)
 Stop_Button = GameGraphics.Button(610, 613, 'Button.png', 1)
-Stop_Button2 = GameGraphics.Button(960, 540, 'Button.png', 0.75) #Temporary Will make a button and menu screen
+Stop_Button2 = GameGraphics.Button(692, 540, 'Button.png', 0.75) #Temporary Will make a button and menu screen
 Temp_Menu_Box =  GameGraphics.Rectangle(960, 540, 620, 900, (0, 0, 0), 2)
 
 #Test_Circle = GameGraphics.Cricle(100, 100, 50, (25, 25, 25), 25)
